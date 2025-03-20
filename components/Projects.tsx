@@ -18,7 +18,7 @@ const projectsData = [
   {
     title: "Graphosity",
     description:
-      "Graphing calculator web app focused on effective functionality. Supports user account login and calculation history. Made during an internship with startup Cenports Commerce Inc.",
+      "Graphing calculator web app focused on effective functionality along with a graphical display. Supports user account login and calculation history. Made during an internship with startup Cenports Commerce Inc.",
     link: "https://github.com/ghost1034/Graphosity",
     technologies: ["Laravel", "PostgreSQL", "Canvas API"],
   },
