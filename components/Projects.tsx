@@ -56,7 +56,7 @@ const projectsData = [
     ],
   },
   {
-    title: "Robot Tour Code",
+    title: "Scioly Pololu Robot",
     description:
       "Code for the Pololu Romi 32U4 with movement sequences and target time control. Made for Science Olympiad Robot Tour.",
     link: "https://github.com/ghost1034/SciolyPololuRobot",
