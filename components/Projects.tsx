@@ -7,7 +7,7 @@ const projectsData = [
     title: "Personal Portfolio",
     description:
       "A modern and minimalistic portfolio.",
-    link: "https://ianstewart.vercel.app/",
+    link: "https://github.com/ghost1034/PersonalPortfolio",
     technologies: [
       "Next.js",
       "React",
