@@ -12,6 +12,8 @@ const skillsData = [
   "Express",
   "PHP",
   "Git/GitHub",
+  "Tensorflow",
+  "Pytorch",
   "MySQL",
   "PostgreSQL",
   "MongoDB",
@@ -19,7 +21,7 @@ const skillsData = [
   "AWS",
   "Firebase",
   "Tailwind CSS",
-  "And more, just ask. Willing to learn new technologies.",
+  "And more, just ask. Willing to learn new tools.",
 ];
 
 function Skills() {

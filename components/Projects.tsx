@@ -43,6 +43,28 @@ const projectsData = [
       "JavaScript",
     ],
   },
+  {
+    title: "Beehive Health Classifier",
+    description:
+      "Uses machine learning to classify beehive health status based on image and audio data. Datasets sourced from Kaggle.",
+    link: "https://drive.google.com/drive/folders/1zAkqyKNCiKwWOggoPkWpvUddHAiqaQRC?usp=sharing",
+    technologies: [
+      "Python",
+      "Google Colab",
+      "scikit-learn",
+      "TensorFlow",
+    ],
+  },
+  {
+    title: "Robot Tour Code",
+    description:
+      "Code for the Pololu Romi 32U4 with movement sequences and target time control. Made for Science Olympiad Robot Tour.",
+    link: "https://github.com/ghost1034/SciolyPololuRobot",
+    technologies: [
+      "C++",
+      "Arduino",
+    ],
+  },
 ];
 
 function Projects() {
