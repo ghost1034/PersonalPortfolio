@@ -7,7 +7,6 @@ const skillsData = [
   "JavaScript",
   "TypeScript",
   "React",
-  "Next.js",
   "Node.js",
   "Express",
   "PHP",
@@ -16,6 +15,7 @@ const skillsData = [
   "MySQL",
   "PostgreSQL",
   "MongoDB",
+  "Redis",
   "And more, just ask. Willing to learn new tools.",
 ];
 
