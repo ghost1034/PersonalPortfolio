@@ -9,13 +9,15 @@ const skillsData = [
   "React",
   "Node.js",
   "Express",
+  "Django",
+  "Flask",
   "PHP",
   "Tensorflow",
   "Pytorch",
   "MySQL",
   "PostgreSQL",
   "MongoDB",
-  "Redis",
+  "Firebase",
   "And more, just ask. Willing to learn new tools.",
 ];
 
