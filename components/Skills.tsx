@@ -9,6 +9,7 @@ const skillsData = [
   "React",
   "Node.js",
   "Express",
+  "Next.js",
   "Django",
   "Flask",
   "PHP",
