@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ianstewart.vercel.app
+
+# Sitemaps
+Sitemap: https://ianstewart.vercel.app/sitemap.xml

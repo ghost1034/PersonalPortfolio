@@ -4,15 +4,15 @@ import { Button } from "./ui/button";
 
 const projectsData = [
   {
-    title: "Personal Portfolio",
+    title: "CPAAutomation.ai",
     description:
-      "A modern and minimalistic portfolio.",
-    link: "https://github.com/ghost1034/PersonalPortfolio",
+      "Founded CPA Automation, Inc. and currently developing CPAAutomation.ai, a platform that provides customizable AI tools for Certified Public Accountants to automate data extraction and analysis.",
+    link: "https://cpaautomation.ai/",
     technologies: [
       "Next.js",
-      "React",
-      "JavaScript/TypeScript",
-      "Tailwind CSS",
+      "FastAPI",
+      "Vertex AI",
+      "Google Cloud",
     ],
   },
   {

@@ -13,7 +13,7 @@ const EducationData: EducationItem[] = [
     endDate: "Present",
     schoolName: "Solon High School",
     description: [
-      "GPA: 4.40 W, 3.99 UW",
+      "GPA: 4.40 W, 4.00 UW",
       "Relevant - AP: CS A, Calc BC, Bio, Chem, Physics 1 & C Mech, Stats, Seminar",
       "Activities:",
       "Science Olympiad",

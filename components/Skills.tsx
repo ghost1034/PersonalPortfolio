@@ -10,6 +10,7 @@ const skillsData = [
   "Node.js",
   "Express",
   "Next.js",
+  "FastAPI",
   "Django",
   "Flask",
   "PHP",
