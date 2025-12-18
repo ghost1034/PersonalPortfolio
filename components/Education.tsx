@@ -9,8 +9,17 @@ interface EducationItem {
 
 const EducationData: EducationItem[] = [
   {
-    startDate: "August 2022",
+    startDate: "August 2025",
     endDate: "Present",
+    schoolName: "Abraham Lincoln High School",
+    description: [
+      "Location: San Francisco",
+      "Expected Graduation: June 2026",
+    ],
+  },
+  {
+    startDate: "August 2022",
+    endDate: "May 2025",
     schoolName: "Solon High School",
     description: [
       "GPA: 4.40 W, 4.00 UW",
